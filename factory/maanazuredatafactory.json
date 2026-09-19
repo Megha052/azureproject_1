@@ -1,0 +1,15 @@
+{
+	"name": "maanazuredatafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "680fb31d-56cf-4c2c-a191-80aa692e58b3",
+		"tenantId": "80bc7b98-eec7-4c06-8020-051fd8296076"
+	}
+}
